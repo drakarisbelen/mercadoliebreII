@@ -1,0 +1,56 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.main-header
+{
+background-color: #eac926;
+padding: 20px;
+}
+
+.logo
+{
+width: 200px;
+}
+
+.copy-header
+{
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.hamburguer-button{
+    background-color: #03264C;
+    color: white;
+    display: block;
+    max-width: 50px;
+    padding: 15px 0;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+    margin:auto;
+
+}
+
+.main-navbar{
+    display:none;
+}
+
+.main-navbar ul
+{
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+
+.main-navbar a{
+    text-decoration: none;
+    color: #222222;
+    display: inline-block;
+    padding: 3px 0;
+    font-size: 15px;
+    
+}
+
